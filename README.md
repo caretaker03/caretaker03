@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently practicing my HTML5 & CSS3 skills, also learning JavaScript and React.js
 - 💞️ I’m looking to collaborate on web development
-- 📫 You can reach me using my LinkedIn or Instagram profile
+- 📫 You can reach me via my LinkedIn or Instagram profile
 
 <!---
 caretaker03/caretaker03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
